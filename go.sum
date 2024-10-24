@@ -1,0 +1,5 @@
+github.com/alecthomas/kong v1.2.1 h1:E8jH4Tsgv6wCRX2nGrdPyHDUCSG83WH2qE4XLACD33Q=
+github.com/alecthomas/kong v1.2.1/go.mod h1:rKTSFhbdp3Ryefn8x5MOEprnRFQ7nlmMC01GKhehhBM=
+github.com/armon/go-proxyproto v0.0.0-20210323213023-7e956b284f0a/go.mod h1:QmP9hvJ91BbJmGVGSbutW19IC0Q9phDCLGaomwTJbgU=
+inet.af/tcpproxy v0.0.0-20231102063150-2862066fc2a9 h1:zomTWJvjwLbKRgGameQtpK6DNFUbZ2oNJuWhgUkGp3M=
+inet.af/tcpproxy v0.0.0-20231102063150-2862066fc2a9/go.mod h1:Tojt5kmHpDIR2jMojxzZK2w2ZR7OILODmUo2gaSwjrk=
